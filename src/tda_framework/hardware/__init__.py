@@ -1,0 +1,1 @@
+"""Hardware models and timing characteristics."""
